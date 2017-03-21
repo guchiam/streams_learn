@@ -1,0 +1,19 @@
+{
+  "name": "csv_json_test_project",
+  "version": "1.0.0",
+  "description": "CSV-JSON test project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": { 
+     "type" : "git",
+     "url" : "https://github.com/guchiam/streams_learn.git"
+  },  
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "json2csv": "^3.7.3"
+  }
+}
